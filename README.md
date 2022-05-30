@@ -56,6 +56,10 @@ Exemplo
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
+## Crédito
+
+Projeto original [alexandrerosseto](<https://github.com/alexandrerosseto/readme-portfolio-template>)
+
 <!-- Markdown link & img dfn's -->
 
 [header-url]: github-template.png

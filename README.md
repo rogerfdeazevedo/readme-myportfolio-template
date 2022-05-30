@@ -10,13 +10,13 @@
 Descrição do projeto.
 
 ---
-## Author
+## Autor
 
 **Roger de Azevedo** 
 
 * *Meu perfil profissional no* [LinkedIn][linkedin-url]
 
-## Showcase
+## Apresentação
 
 Esse projeto foi desenvolvimedo para demonstrar:
 
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvimedo para demonstrar:
 * Item 2
 * Item 3
 
-## Built With
+## Tecnologia
 
 * [Gradle](https://gradle.org/) - Dependency Management
 * [Maven](https://maven.org/) - Dependency Management
@@ -48,17 +48,7 @@ Exemplo
 
 ---
 
-## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-## Crédito
-
-Projeto original [alexandrerosseto](<https://github.com/alexandrerosseto/readme-portfolio-template>)
 
 <!-- Markdown link & img dfn's -->
 
